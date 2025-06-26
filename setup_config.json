@@ -1,0 +1,6 @@
+{
+    "require_venv": true,
+    "icon_path": "assets/images/icon/battery_lamp_icon.ico",
+    "script_path": "src/battery_percentage.pyw",
+    "shortcut_name": "Battery Lamp.lnk"
+}
